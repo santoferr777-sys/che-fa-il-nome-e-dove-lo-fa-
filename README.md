@@ -1,4 +1,4 @@
-# che-fa-il-nome-e-dove-lo-fa-
+# chi?cosa fa?dove?quando?
 /index.html
 /style.css
 /script.js
